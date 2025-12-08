@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sahil Kumar
 # 💫 About Me:
 
-#AI/ML Learner & Full-Stack Developer focused on solving problems through code and innovation. Constantly learning, building, and growing.
+# AI/ML Learner & Full-Stack Developer focused on solving problems through code and innovation. Constantly learning, building, and growing.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61578761112556&rdid=VGMDrXPTvLQgkmvt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FgBNUJdci%2F#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sahill_as24/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-5aa732378/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SAHILKUMAR2430?t=Wg3EZhLMAzcGsaXTKwmKFQ&s=09)
